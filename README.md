@@ -12,6 +12,8 @@
 
 #### Java类文章
 
+[什么是CAS机制？](https://blog.csdn.net/bjweimengshu/article/details/78949435)
+
 #### 技术社区
 
 [InfoQ](https://www.infoq.com/)
