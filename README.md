@@ -12,6 +12,8 @@
 
 #### Java类文章
 
+[为什么说Java中只有值传递？](https://blog.csdn.net/bjweimengshu/article/details/79799485#comments)
+
 [什么是CAS机制？](https://blog.csdn.net/bjweimengshu/article/details/78949435)
 
 #### 技术社区
