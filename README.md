@@ -10,6 +10,8 @@
 
 [基于Android 6.0 以上源码分析、Flutter（袁辉辉）](http://gityuan.com/)
 
+[Android 事件分发，这一篇描述得挺好的（推荐）](https://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650248566&idx=1&sn=a84dfe3f3809ad16478418963064f5f1&chksm=88636419bf14ed0f863e6eb6d819045f7a7f6cb21b9ad482086cbe7b501c834de943384e0536&scene=126&sessionid=1583123184&key=26c378d410f2b0d4c1b76105a76824484e8925284a202a33412faa3d337345cbebedda088194d5449052d1236c5a5687dc20e10144021be9d10322d13245fb79696d1ddd1192c0826dec4419f8a8c1ca&ascene=1&uin=MjM2MTMyNjYzMg%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AyB9g6hXoyWG%2FQAdbJiP3fs%3D&pass_ticket=AbZd709sgywmqqEGaylB79srdn5N%2F2hkkb1xPpjRcvvrVAOn444ODVFpoq1N3OaP)
+
 #### Java类文章
 
 [为什么说Java中只有值传递？](https://blog.csdn.net/bjweimengshu/article/details/79799485#comments)
