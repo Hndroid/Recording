@@ -14,6 +14,8 @@
 
 [Android中的Framework层的Window（推荐）](https://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650248646&idx=1&sn=31d79e2679cb79e215e192b2976a2261&chksm=886364a9bf14edbfe3f0bc208acbda80a75e6b79aa30a50102d4a076d897f7fbd71cf88f2bd0&scene=126&sessionid=1583729159&key=8eeaa62989b7fc002f8a7f2a7d63187f610f029cf046ec357b3252c4fd89d1554b7a9515415a847e23d5e4f564c65791ebfe8b975a74abc4e204704e028332ec665fde0db35d30d877cfc671bdbccffd&ascene=1&uin=MjM2MTMyNjYzMg%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=A9K9EyCe3smBuHSEuOVw4Gg%3D&pass_ticket=de2QxVQipy30LsxjSkd0cihNHmpFgbjvcpIA1a%2FryKEiiRyl8l9uArl29VVTV1nY)
 
+[为什么Android要采用Binder跨进程通信](https://www.zhihu.com/question/39440766/answer/89210950)
+
 #### Java类文章
 
 [为什么说Java中只有值传递？](https://blog.csdn.net/bjweimengshu/article/details/79799485#comments)
