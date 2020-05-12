@@ -18,6 +18,8 @@
 
 [事件到底是先到DecorView还是先到Window的](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650830166&idx=1&sn=5d1d40458710758f0b8e2de6ec2ca957&chksm=80b7a1c8b7c028de88039f07a243f868958a056368b5cd2076b498a86b451f54b16b2bced3ab&scene=126&sessionid=1584945314&key=f20817e46877e19f7eea45e41baec018ccaf6fa3e911491029a092f589d6741403f6c0503eef8c9d1a5a12d041cce69f7d9b060663ed4d60d2f59b4ce4400ee7bd0876b649ae79a1e0ed1bacbfaa46bf&ascene=1&uin=MjM2MTMyNjYzMg%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=A1NBJPgRPg5InZW3fqe9fpU%3D&pass_ticket=uYPD%2Fk7o3sZRbZ%2Flltv0ZM5BuKVjpYA16huXjSDZyf3aFpagRMQk%2FmvJspVzOnqK)
 
+[听说你Binder机制学的不错，来面试下这几个问题（一）](https://www.jianshu.com/p/adaa1a39a274)
+
 #### Java类文章
 
 [为什么说Java中只有值传递？](https://blog.csdn.net/bjweimengshu/article/details/79799485#comments)
