@@ -26,6 +26,8 @@
 
 [什么是CAS机制？](https://blog.csdn.net/bjweimengshu/article/details/78949435)
 
+[JNI NDK入门详解，包含常见问题解答！](https://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650250495&idx=1&sn=3edd381c6b113c60a948780276c9b994&chksm=88636d90bf14e486c3f5b7da4ccfd83b6a395d4965aef942cf3056e14639c532a9e0902b66b1&scene=126&sessionid=1593337548&key=6cbe8a29ffaf79eb780a7c4fe9e8ca11e01286dd886ba4e8fd36a8b17f98df04b52e68ab1a291d26cecffab331b07e3ca5178741ce0e7fe4df833413ee5c0deadbd96d35727117ebf747aa03264a49b2&ascene=1&uin=MjM2MTMyNjYzMg%3D%3D&devicetype=Windows+10+x64&version=62090514&lang=zh_CN&exportkey=Az2VzRkN9plte%2B0a4O%2BGtN0%3D&pass_ticket=Jx2TOAogntH6iQM%2BIHEdg%2BmlJBhJCZWuPxfpyFAcEF0gVLm%2BepuDWy9stTxTcgqq)
+
 #### Kotlin类文章
 
 [在 Android 开发中使用协程](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652052998&idx=2&sn=18715a7e33b7f7a5878bd301e9f8f935&scene=21#wechat_redirect)
